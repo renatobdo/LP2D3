@@ -1,0 +1,24 @@
+1) Crie uma classe chamada Carro com os atributos marca, modelo e ano. 
+Em seguida, crie um objeto da classe Carro e atribua valores aos atributos. 
+Por fim, exiba os valores dos atributos do objeto criado.
+
+2) Crie uma classe chamada Retangulo com os atributos largura e altura. 
+Implemente métodos para calcular a área e o perímetro do retângulo. 
+Crie um objeto da classe Retangulo com valores definidos pelo usuário e exiba a 
+área e o perímetro.
+
+3) Crie uma classe chamada Pessoa com os atributos nome, idade e profissao. 
+Implemente um método chamado apresentar, que imprime uma mensagem no formato 
+"Olá, meu nome é [nome], tenho [idade] anos e sou [profissao].". 
+Crie um objeto da classe Pessoa, atribua valores aos atributos e chame o método apresentar.
+
+4) Crie uma classe chamada ContaBancaria com os atributos titular (nome do titular), 
+numero (número da conta) e saldo. Implemente métodos para realizar depósito e saque na conta. 
+Ao realizar o saque, verifique se o saldo é suficiente para a operação. Crie um objeto da classe ContaBancaria, realize algumas operações de depósito e saque, e exiba o saldo final.
+
+5) Crie uma classe chamada Produto com os atributos nome e preco. Em seguida, 
+crie um array de objetos da classe Produto, representando um catálogo de produtos de uma loja. Exiba o nome e o preço de cada produto do catálogo.
+ 
+6) Crie uma classe chamada Circulo com o atributo raio. Implemente métodos para calcular a 
+área e a circunferência do círculo. Crie um objeto da classe Circulo com um valor 
+definido pelo usuário e exiba a área e a circunferência.
