@@ -1,5 +1,6 @@
 <?php
 require ("Carro.php");
+require ("Retangulo.php");
 class Fruta{
     // atributos da classe
     private $nome;
@@ -51,6 +52,13 @@ echo "<br> Carro 2 - marca = ".
         $carro2->get_modelo().
      "<br> ano = ".
         $carro2->get_ano();
+//Criação de um objeto do tipo Retangulo
+$retangulo = new Retangulo(2,4);
+echo "<br> Área do retângulo = ".
+    $retangulo->calcular_area();
+echo "<br> Perímetro do retângulo = ".
+    $retangulo->calcular_perimetro();
+
 
 // Imprimir na tela o nome e a cor dos
 //objetos
