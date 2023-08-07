@@ -9,3 +9,7 @@ Existem várias categorias como:
 - Restaurante
 - Portfolio
 - etc
+
+Preencham a planilha com os temas escolhidos e os nomes dos integrantes:
+
+https://docs.google.com/spreadsheets/d/1rjrDY--G3B4SLdJ7jPaEuBiAXgoBuY9tF43DHabJUvI/edit?usp=sharing
