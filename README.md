@@ -1,5 +1,8 @@
 # LP2D3
-Disciplina do curso de Análise e desenvolvimento de sistemas do IFSP Guarulhos 
+Disciplina do terceiro semestre do curso de Análise e desenvolvimento de sistemas do IFSP Guarulhos 
+
+# Ementa
+http://gru.ifsp.edu.br/index.php/superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas.html
 
 # Dúvidas
 e-mail: renato.bueno@ifsp.edu.br
