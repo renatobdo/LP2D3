@@ -1,7 +1,8 @@
 # LP2D3 - Projetos
 
 Sugestão de site para escolha do template https://bootstrapmade.com/
-Existem várias categorias como
+
+Existem várias categorias como:
 - Negócios
 - Educação
 - Saúde
