@@ -3,7 +3,7 @@
 <head>
     <title>Exemplo de Formulário do carro</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css\styles.css">
+    <link rel="stylesheet" href="css\style.css">
 </head>
 <body>
     <div class="container">
@@ -23,6 +23,27 @@
             </div>
             <button type="submit" class="btn btn-primary">Enviar</button>
         </form>
-</div>
+        
+        <?php
+        include 'Carro.php';
+                
+        if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        // ==============  ou  ==================
+         //if (isset($_POST["marca"]) && isset($_POST["modelo"]) && isset($_POST["ano"])){
+            
+            $marca = $_POST["marca"];
+            $modelo = $_POST["modelo"];
+            $ano = $_POST["ano"];
+            
+            
+            $carro = new Carro($marca, $modelo, $ano);
+            
+            echo "<h3>Dados Enviados</h3>";
+            echo "<p><strong>Marca:</strong> " . $carro->get_marca() . "</p>";
+            echo "<p><strong>Modelo:</strong> " . $carro->get_modelo() . "</p>";
+            echo "<p><strong>Ano:</strong> " . $carro->get_ano() . "</p>";
+        }
+        ?>
+    </div>
 </body>
 </html>
