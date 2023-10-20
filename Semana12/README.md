@@ -10,7 +10,7 @@
 
 - Crie uma rota que renderize a view paz.blade.php e passe um array com dados para a view. Exiba esses dados na view.
 
-**2. No exercício 2 crie uma array com as mensagens:** "paz no Oriente Médio", "A paz é a única forma de nos sentirmos realmente humanos", "Não existe uma caminho para a paz. A paz é o caminho". Sortei uma mensagem para a rota que renderiza a view?
+**2. No exercício 2 crie uma array com as mensagens:** "paz no Oriente Médio", "A paz é a única forma de nos sentirmos realmente humanos", "Não existe uma caminho para a paz. A paz é o caminho". Sorteie uma mensagem para a rota que renderiza a view?
 
 **3. Estruturas de Controle no Blade**
 
