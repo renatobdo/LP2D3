@@ -11,7 +11,7 @@
   - ORM (Object-Relational Mapping) chamado Eloquent
 
 ## Ferramentas necessárias
-- XAMP: 
+- XAMP
 - composer: https://getcomposer.org/download/ 
   - caso apresente o erro git was not found in your PATH, skipping source download:
     - https://www.youtube.com/watch?v=VQSobav5qyg 
