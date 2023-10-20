@@ -10,6 +10,16 @@
   - autenticação de usuário
   - ORM (Object-Relational Mapping) chamado Eloquent
 
+## Ferramentas necessárias
+- XAMP: 
+  - composer: https://getcomposer.org/download/ 
+  - caso apresente o erro git was not found in your PATH, skipping source download:
+    - https://www.youtube.com/watch?v=VQSobav5qyg 
+- laravel: https://laravel.com/docs/10.x/installation#your-first-laravel-project
+- Visual Studio Code (VS)
+- Emmet para  auxiliar na criação de código (extensão do VS)
+- Node.js: https://nodejs.org/en/download 
+  - https://getbootstrap.com/docs/5.0/getting-started/download/ 
 
 ## Comandos úteis
 
