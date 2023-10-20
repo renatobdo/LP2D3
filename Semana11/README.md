@@ -13,20 +13,20 @@
 
 ## Comandos úteis
 
-1 cria um projeto laravel
+1. cria um projeto laravel
 
 composer create-project laravel/laravel nome_do_projeto
 
 composer create-project laravel/laravel hdcevents
 
-2 sobe o servidor
+2. sobe o servidor
 
 php artisan serve
 
-3 sobe o servidor na porta 8000
+3. sobe o servidor na porta 8000
 
 php artisan serve
 
-4 posso subir o servidor na porta que eu quiser
+4. posso subir o servidor na porta que eu quiser
 
 php artisan serve --host=0.0.0.0 --port=8001
