@@ -10,14 +10,17 @@
 
 - Crie uma rota que renderize a view paz.blade.php e passe um array com dados para a view. Exiba esses dados na view.
 
-**3. No exercício 2 crie uma array com as mensagens:** "paz no Oriente Médio", "A paz é a única forma de nos sentirmos realmente humanos", "Não existe uma caminho para a paz. A paz é o caminho". Sorteie uma mensagem para a rota que renderiza a view?
+**3. No exercício 2 crie uma array com as mensagens:** 
+
+- "paz no Oriente Médio", "A paz é a única forma de nos sentirmos realmente humanos", "Não existe uma caminho para a paz. A paz é o caminho". Sorteie uma mensagem para a rota que renderiza a view?
 
 **4. Estruturas de Controle no Blade**
 
 - Modifique a view paz.blade.php para incluir uma estrutura de controle que verifica se uma variável chamada isUserLoggedIn é verdadeira. Se for verdadeira, exiba a mensagem "Usuário logado!", caso contrário, exiba "Usuário não logado!".
 
 **5. Layouts e Herança**
-Crie uma nova view chamada layout.blade.php que serve como um layout base para o site. Ela deve incluir uma estrutura HTML básica com cabeçalho, rodapé e espaço para conteúdo. Em seguida, crie uma view inicio.blade.php que estende o layout e preencha o conteúdo com a mensagem "Página inicial do site".
+
+- Crie uma nova view chamada layout.blade.php que serve como um layout base para o site. Ela deve incluir uma estrutura HTML básica com cabeçalho, rodapé e espaço para conteúdo. Em seguida, crie uma view inicio.blade.php que estende o layout e preencha o conteúdo com a mensagem "Página inicial do site".
 
 **6. Looping no Blade**
 
