@@ -12,7 +12,7 @@
 
 ## Ferramentas necessárias
 - XAMP: 
-  - composer: https://getcomposer.org/download/ 
+- composer: https://getcomposer.org/download/ 
   - caso apresente o erro git was not found in your PATH, skipping source download:
     - https://www.youtube.com/watch?v=VQSobav5qyg 
 - laravel: https://laravel.com/docs/10.x/installation#your-first-laravel-project
