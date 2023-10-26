@@ -12,7 +12,7 @@
 
 **3. No exercício 2 crie uma array com as mensagens:** 
 
-- "paz no Oriente Médio", "A paz é a única forma de nos sentirmos realmente humanos", "Não existe uma caminho para a paz. A paz é o caminho". Sorteie uma mensagem para a rota que renderiza a view?
+- "paz no Oriente Médio", "A paz é a única forma de nos sentirmos realmente humanos", "Não existe um caminho para a paz. A paz é o caminho". Sorteie uma mensagem para a rota que renderiza a view
 
 **4. Estruturas de Controle no Blade**
 
