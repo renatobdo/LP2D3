@@ -1,0 +1,187 @@
+* {
+    font-family: 'Roboto';
+}
+body{
+    min-height: 100vh;
+    padding-bottom: 100px;
+    position:relative;
+}
+header{
+    /*background-color: #17882c; 006400*/
+    background-color: #FFF !important;
+    border-bottom:1px solid #CCC;
+}
+.row{
+    margin:0;
+}
+.container-fluid{
+    padding:0;
+}
+.btn-primary{
+    background-color: #8ec045;
+    border:1px solid #C28008;
+}
+.btn-primary:hover{
+    background-color: #C28008;
+    border-color:#C28008;
+}
+#navbar img{
+    width: 40px;
+}
+
+#navbar {
+    justify-content: space-between;
+    /*background-color: #FFF;*/
+    padding: 5px 0;
+}
+#navbar a{
+    font-size:14px;
+    color:#17882c;
+}
+
+#navbar a:hover{
+    color:#F2A340;
+}
+
+#search-container{
+    background-image: url("../img/plateiaEventos.png");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding: 50px;
+    text-align: center;
+}
+#search-container h1{
+    color: #FFF;
+    margin-bottom: 30px;
+    font-weight: 900;
+}
+#search-container form{
+    width: 50%;
+    margin: 0 auto;
+}
+/* lista de eventos */
+
+#events-container{
+    padding: 50px;
+}
+
+#events-container h2{
+    margin-bottom: 10px;
+}
+
+#events-container h2{
+    margin-bottom: 10px;
+}
+#events-container .subtitle{
+    color: #757575;
+    margin-bottom: 30px;
+}
+#cards-container{
+    display: flex;
+}
+#events-container .card{
+    flex: 1 1 0;
+    max-width: 25%;
+    border-radius: 10px;
+    padding: 0;
+    margin: 5px;
+}
+
+#events-container img{
+    max-height: 150px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card .card-date{
+    font-size: 12px;
+    color: #CCC;
+}
+.card .card-title{
+    color: #212121;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.card-participants{
+    font-size: 14px;
+    color: #757575;
+}
+/* event create page */
+#event-create-container{
+    padding: 30px !important
+}
+#event-create-container label{
+    font-weight: bold;
+    padding:0px 0px 10px 0px;
+}
+#event-create-container input,
+#event-create-container select,
+#event-create-container text-area
+{
+    font-size: 14px;
+}
+.form-group{
+    padding:10px !important;
+}
+
+.msg {
+    background-color: #D4EDDA;
+    color: #155724;
+    border: 1px solid #C3E6CB;
+    width:100%;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px;
+}
+
+/*footer */
+footer{
+    text-align: center;
+    /*background-color: #00420c; */
+    background-color:#17882c;
+    color: #FFF;
+    padding: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer p{
+    margin-bottom: 0;
+}
+
+
+h1 {
+    color: #8ec045;
+}
+/* styles.css */
+.header-image {
+    max-width: 300%;
+    height: auto;
+    color: #8ec045;
+}
+
+/* styles.css */
+.navbar-brand {
+    max-width: 120px; /* Defina o tamanho máximo desejado */
+    height: auto; /* Mantém a proporção */
+}
+.nav-item:hover .nav-link {
+   
+    color: #8ec045; 
+   /* color: #FFF; */
+}
+.navbar-nav {
+    padding-left:250px;
+
+    
+}
+.custom-green-icons ion-icon {
+    color: #FFF;
+   
+}
+
+.text-body-secondary {
+    color: #FFFFFF !important; /* Branco */ /* Branco */
+  }
